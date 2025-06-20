@@ -60,5 +60,5 @@ To build a regression model that predicts the **closing stock price** of Yes Ban
 
 Feel free to reach out if you have questions or feedback!
 
-📧 prakharsrivastava019@gmail.com
-🔗 www.linkedin.com/in/prakhar-srivastava-58bb85303
+📧 Email: prakharsrivastava019@gmail.com
+🔗Linked In https://www.linkedin.com/in/prakhar-srivastava-58bb85303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
