@@ -50,7 +50,7 @@ To build a regression model that predicts the **closing stock price** of Yes Ban
 
 ## 📁 Project Structure
 
-```bash
+
 ├── Assignment.ipynb       # Main Jupyter Notebook
 ├── yesbank_model.pkl      # Saved model using Joblib
 ├── README.md              # Project overview
