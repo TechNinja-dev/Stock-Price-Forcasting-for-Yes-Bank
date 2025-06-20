@@ -48,17 +48,10 @@ To build a regression model that predicts the **closing stock price** of Yes Ban
 
 ---
 
-## 📁 Project Structure
-
-
-├── Assignment.ipynb       # Main Jupyter Notebook
-├── yesbank_model.pkl      # Saved model using Joblib
-├── README.md              # Project overview
-└── requirements.txt       # Required Python libraries (optional)
-
 ## 📬 Contact
 
 Feel free to reach out if you have questions or feedback!
 
 📧 Email: prakharsrivastava019@gmail.com
+
 🔗Linked In https://www.linkedin.com/in/prakhar-srivastava-58bb85303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
