@@ -40,7 +40,7 @@ To build a regression model that predicts the **closing stock price** of Yes Ban
 
 | Model             | MAE        | R² Score   |
 |------------------|------------|------------|
-| Linear Regression | ~3.73      | ~0.9915    |
+| Multiple Linear Regression | ~3.73      | ~0.9915    |
 | Ridge Regression  | ~3.73      | ~0.9914    |
 | SVR (tuned)       | ~3.57      | ~0.9914    |
 
