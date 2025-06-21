@@ -17,7 +17,7 @@ To build a regression model that predicts the **closing stock price** of Yes Ban
 - 🧹 Outlier detection and handling using IQR
 - 🔍 Feature selection based on domain relevance
 - ⚙️ Models Implemented:
-  - Linear Regression
+  - Multiple Linear Regression
   - Ridge Regression (with Hyperparameter Tuning)
   - Support Vector Regression (SVR)
 - 🧪 Evaluation using MAE and R² Score
